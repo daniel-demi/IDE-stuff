@@ -1,0 +1,22 @@
+{
+	"name": "my-dark-plus-black",
+	"displayName": "My Dark+ Black",
+	"description": "Clone of Dark+ Tweaked with every workbench background set to pitch black.",
+	"publisher": "defron",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "My Dark+ Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/My Dark+ Black-color-theme.json"
+			}
+		]
+	}
+}
