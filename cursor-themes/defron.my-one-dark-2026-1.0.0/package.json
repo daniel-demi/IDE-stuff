@@ -1,0 +1,22 @@
+{
+	"name": "my-one-dark-2026",
+	"displayName": "My One Dark 2026",
+	"description": "Clone of One Dark 2026 Pro with pitch-black chrome, My Dark+ Black status bar and cursor, and AdaLabs-style splits.",
+	"publisher": "defron",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "My One Dark 2026",
+				"uiTheme": "vs-dark",
+				"path": "./themes/My One Dark 2026-color-theme.json"
+			}
+		]
+	}
+}
