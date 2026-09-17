@@ -1,0 +1,22 @@
+{
+	"name": "my-atom-one-light",
+	"displayName": "My Atom One Light",
+	"description": "Clone of Atom One Light with Dimmed Light 2026 backgrounds and Light+ activity bar and status bar.",
+	"publisher": "defron",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "My Atom One Light",
+				"uiTheme": "vs",
+				"path": "./themes/My Atom One Light-color-theme.json"
+			}
+		]
+	}
+}
