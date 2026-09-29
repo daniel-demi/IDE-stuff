@@ -1,8 +1,7 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "My Atom One Light",
+	"name": "My Atom One Light Chrome",
 	"type": "light",
-	"include": "./one-light-base.json",
 	"colors": {
 		"activityBar.activeBackground": "#FFFFFF18",
 		"activityBar.activeBorder": "#FFFFFF",

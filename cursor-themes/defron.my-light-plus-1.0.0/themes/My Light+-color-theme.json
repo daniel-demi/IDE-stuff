@@ -1,0 +1,6 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "My Light+",
+	"type": "light",
+	"include": "./light-plus-syntax.json"
+}
