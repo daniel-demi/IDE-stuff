@@ -1,0 +1,22 @@
+{
+	"name": "my-dark-cursor-theme",
+	"displayName": "My Dark Cursor Theme",
+	"description": "Cursor Dark with pitch-black walls and a green caret.",
+	"publisher": "defron",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "My Dark Cursor Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/My Dark Cursor Theme-color-theme.json"
+			}
+		]
+	}
+}
