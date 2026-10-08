@@ -1,0 +1,22 @@
+{
+	"name": "my-dark-monokai",
+	"displayName": "My Dark Monokai",
+	"description": "Dark 2026 Monokai syntax with pitch-black chrome, My Dark+ Black status bar and cursor, and AdaLabs-style splits.",
+	"publisher": "defron",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "My Dark Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/My Dark Monokai-color-theme.json"
+			}
+		]
+	}
+}

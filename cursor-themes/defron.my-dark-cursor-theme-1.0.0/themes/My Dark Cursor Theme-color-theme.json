@@ -28,6 +28,7 @@
 		"dropdown.border": "#8A8A8A",
 		"dropdown.listBackground": "#000000",
 		"editor.background": "#000000",
+		"editor.foreground": "#f1f1f1",
 		"editorCursor.background": "#1e3318",
 		"editorCursor.foreground": "#9fcb80",
 		"editorGroup.emptyBackground": "#000000",
