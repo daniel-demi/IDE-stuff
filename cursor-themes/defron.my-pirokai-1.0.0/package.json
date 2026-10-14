@@ -1,0 +1,22 @@
+{
+	"name": "my-pirokai",
+	"displayName": "My Pirokai",
+	"description": "Monokai Pirokai Beach Sunset syntax with My Dark Cursor Theme walls, caret, and borders.",
+	"publisher": "defron",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "My Pirokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/My Pirokai-color-theme.json"
+			}
+		]
+	}
+}

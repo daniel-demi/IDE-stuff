@@ -1,0 +1,22 @@
+{
+	"name": "my-light-pirokai",
+	"displayName": "My Light Pirokai",
+	"description": "Beach Sunset Pirokai syntax darkened for a light page, Quiet Light walls, and the My Light+ status bar.",
+	"publisher": "defron",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "My Light Pirokai",
+				"uiTheme": "vs",
+				"path": "./themes/My Light Pirokai-color-theme.json"
+			}
+		]
+	}
+}
