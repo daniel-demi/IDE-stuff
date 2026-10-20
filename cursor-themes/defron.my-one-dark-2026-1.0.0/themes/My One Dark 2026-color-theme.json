@@ -94,6 +94,8 @@
 		"settings.textInputBackground": "#000000",
 		"sideBar.background": "#000000",
 		"sideBar.border": "#3A3A3A",
+		"auxiliaryBar.background": "#000000",
+		"auxiliaryBar.border": "#3A3A3A",
 		"sideBarSectionHeader.background": "#000000",
 		"sideBarSectionHeader.border": "#3A3A3A",
 		"sideBarStickyScroll.background": "#000000",
