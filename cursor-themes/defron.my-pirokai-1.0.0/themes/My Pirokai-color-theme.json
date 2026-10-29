@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "My Pirokai",
+	"name": "My Pirokai Oled",
 	"type": "dark",
 	"semanticHighlighting": false,
 	"include": "./cursor-dark-colors.json",
@@ -30,6 +30,7 @@
 		"dropdown.listBackground": "#000000",
 		"editor.background": "#000000",
 		"editor.foreground": "#f1f1f1",
+		"editor.selectionBackground": "#e7e7e744",
 		"editorCursor.background": "#1e3318",
 		"editorCursor.foreground": "#9fcb80",
 		"editorGroup.emptyBackground": "#000000",

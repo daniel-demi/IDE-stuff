@@ -1,0 +1,22 @@
+{
+	"name": "my-dark-pirokai",
+	"displayName": "My Dark Pirokai",
+	"description": "Monokai Pirokai Beach Sunset syntax, buttons, and accents, with Dark+ editor/panel walls and borders.",
+	"publisher": "defron",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "My Dark Pirokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/My Dark Pirokai-color-theme.json"
+			}
+		]
+	}
+}
