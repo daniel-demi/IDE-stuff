@@ -1,7 +1,7 @@
 {
 	"name": "my-dark-pirokai",
 	"displayName": "My Dark Pirokai",
-	"description": "Monokai Pirokai Beach Sunset syntax, buttons, and accents, with Dark+ editor/panel walls and borders.",
+	"description": "Monokai Pirokai Beach Sunset syntax, buttons, and accents, with Cursor Dark walls and Dark+ borders.",
 	"publisher": "defron",
 	"version": "1.0.0",
 	"engines": {

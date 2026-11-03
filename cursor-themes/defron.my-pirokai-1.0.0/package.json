@@ -1,5 +1,5 @@
 {
-	"name": "my-pirokai-oled",
+	"name": "my-pirokai",
 	"displayName": "My Pirokai Oled",
 	"description": "Monokai Pirokai Beach Sunset syntax with pitch-black walls, caret, and borders.",
 	"publisher": "defron",
@@ -13,7 +13,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "My Pirokai",
+				"label": "My Pirokai Oled",
 				"uiTheme": "vs-dark",
 				"path": "./themes/My Pirokai-color-theme.json"
 			}
